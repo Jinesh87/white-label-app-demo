@@ -8,7 +8,7 @@ const LANGUAGE = "";
 const CUSTOM_FONTS = {
   OpenSans: 'OpenSans-Regular',
 };
-const jwtToken = "jwtTocken Here";
+const jwtToken = "jwtToken Here";
 
 export default function App() {
   const [fontsLoaded] = useFonts({
